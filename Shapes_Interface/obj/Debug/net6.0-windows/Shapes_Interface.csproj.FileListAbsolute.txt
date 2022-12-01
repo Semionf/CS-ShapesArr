@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Shapes_Interface\Shapes_Interface\bin\Debug\net6.0-windows\Shapes_Interface.exe
+C:\Users\User\source\repos\Shapes_Interface\Shapes_Interface\bin\Debug\net6.0-windows\Shapes_Interface.deps.json
+C:\Users\User\source\repos\Shapes_Interface\Shapes_Interface\bin\Debug\net6.0-windows\Shapes_Interface.runtimeconfig.json
+C:\Users\User\source\repos\Shapes_Interface\Shapes_Interface\bin\Debug\net6.0-windows\Shapes_Interface.dll
+C:\Users\User\source\repos\Shapes_Interface\Shapes_Interface\bin\Debug\net6.0-windows\Shapes_Interface.pdb
+C:\Users\User\source\repos\Shapes_Interface\Shapes_Interface\obj\Debug\net6.0-windows\Shapes_Interface.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Shapes_Interface\Shapes_Interface\obj\Debug\net6.0-windows\Shapes_Interface.Form1.resources
+C:\Users\User\source\repos\Shapes_Interface\Shapes_Interface\obj\Debug\net6.0-windows\Shapes_Interface.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Shapes_Interface\Shapes_Interface\obj\Debug\net6.0-windows\Shapes_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Shapes_Interface\Shapes_Interface\obj\Debug\net6.0-windows\Shapes_Interface.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Shapes_Interface\Shapes_Interface\obj\Debug\net6.0-windows\Shapes_Interface.AssemblyInfo.cs
+C:\Users\User\source\repos\Shapes_Interface\Shapes_Interface\obj\Debug\net6.0-windows\Shapes_Interface.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Shapes_Interface\Shapes_Interface\obj\Debug\net6.0-windows\Shapes_Interface.dll
+C:\Users\User\source\repos\Shapes_Interface\Shapes_Interface\obj\Debug\net6.0-windows\refint\Shapes_Interface.dll
+C:\Users\User\source\repos\Shapes_Interface\Shapes_Interface\obj\Debug\net6.0-windows\Shapes_Interface.pdb
+C:\Users\User\source\repos\Shapes_Interface\Shapes_Interface\obj\Debug\net6.0-windows\Shapes_Interface.genruntimeconfig.cache
+C:\Users\User\source\repos\Shapes_Interface\Shapes_Interface\obj\Debug\net6.0-windows\ref\Shapes_Interface.dll
